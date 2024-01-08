@@ -4,7 +4,6 @@ import ValtoInput from './ValtoInput';
 
 function Valto() {
 
-
     const [atvaltott, setErtek] = useState(0);
 
     function handleChange(type, ertek) {

@@ -19,4 +19,5 @@ const PenzInput = ({penzErtek, setErtek}) => {
     );
 }
 
+
 export default PenzInput;

@@ -14,7 +14,6 @@ const Penzvalto = () => {
             <PenzInput penzErtek={penzErtek} setErtek={setErtek}/>
         </article>
     );
-
 }
 
 export default Penzvalto;

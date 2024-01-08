@@ -25,4 +25,5 @@ const Szinezo = () => {
     );
 }
 
+
 export default Szinezo;

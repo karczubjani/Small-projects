@@ -57,7 +57,7 @@ const User = () => {
                         <input type="submit" />
                     </form> {" "}
                 </>
-            ) : <>Loading...</>
+            ) : <> Loading... </>
             }
         </article>
     );

@@ -16,4 +16,5 @@ function ValtoInput(adatok) {
     );
   }
 
+  
   export default ValtoInput;
